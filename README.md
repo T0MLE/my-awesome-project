@@ -1,4 +1,4 @@
-# j'avoue je suis les consignes mais je comprends pas tout ce que je fais hihi
+# en fait c'est bon j'ai compris
 
 ## achievements
 
