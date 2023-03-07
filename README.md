@@ -1,2 +1,5 @@
-This awesome project is created to experiment git notions like clone, push and pull
-j'avoue je suis les consignes mais je comprends pas tout ce que je fais hihi
+# j'avoue je suis les consignes mais je comprends pas tout ce que je fais hihi
+
+## achievements
+
+J'ai réussi à faire clone, pull et je m'apprête à faire push
